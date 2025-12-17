@@ -1,7 +1,10 @@
 # NyxCipher
 
-NyxCipher is a collective technical identity focused on structured OSINT workflows,
-automation design, and intelligence-oriented system architecture.
+NyxCipher is a technical collective focused on intelligence-oriented workflows,
+OSINT methodologies, and system-level thinking.
 
-This repository represents methodology, scope, and operational direction.
-No runnable tools or public implementations are provided here.
+This profile does not represent an individual.
+There is no public leadership, hierarchy, or attribution.
+
+Work shared here reflects structure, methodology, and direction
+rather than implementation or tooling.
